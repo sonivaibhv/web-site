@@ -1,0 +1,18 @@
+.jumbotron{
+position: relative;
+background: #000 url('C:/Users/Praveen/Desktop/ME/site/highway.jpg') center center;
+
+color:white;
+text-align: center;
+
+background-attachment: fixed;
+min-height: 1000px;
+
+
+    width: 100%;
+    height: 100%;
+    
+    overflow: hidden;
+
+
+}
